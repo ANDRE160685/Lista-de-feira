@@ -6,7 +6,6 @@ import {
 } from 'react-native';
 import useListaController from '../controller/ListaController'; 
 import * as Sharing from 'expo-sharing'; 
-// CORREÇÃO APLICADA AQUI: Importa do módulo legacy
 import * as FileSystem from 'expo-file-system/legacy'; 
 
 
